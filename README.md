@@ -1,0 +1,4 @@
+sonar
+=====
+
+Including sonar plugin
